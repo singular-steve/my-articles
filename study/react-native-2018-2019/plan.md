@@ -20,7 +20,7 @@ React-Native 홈 : Document를 봅시다!
 Inflearn 무료강의 (노마드코더) : 아래 순서로 들으면 됩니다.(바쁘면 날씨앱, TODO앱 만들기만)
 - React Js 웹서비스만들 (20개, 2시간 36분) [Link](https://www.inflearn.com/course/reactjs-web/)
 - React 16 (6개, 26분) [Link](https://www.inflearn.com/course/react-%EB%A6%AC%EC%95%A1%ED%8A%B8-16/)
-- React Native: 날씨앱 만들기 (17개, 2시간 12분) [Link]([https://www.inflearn.com/course/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C/)
+- React Native: 날씨앱 만들기 (17개, 2시간 12분) [Link](https://www.inflearn.com/course/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C/)
 - React Native: TODO앱 만들기 (17개, 2시간 10분) [Link](https://www.inflearn.com/course/react-native-make-todo/)
 
 Velopert 블로그
